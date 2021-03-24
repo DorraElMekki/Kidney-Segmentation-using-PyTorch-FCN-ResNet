@@ -1,0 +1,52 @@
+PyTorch version: 1.7.1+cu101
+Is debug build: False
+CUDA used to build PyTorch: 10.1
+ROCM used to build PyTorch: N/A
+
+OS: Ubuntu 16.04.7 LTS (x86_64)
+GCC version: (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609
+Clang version: Could not collect
+CMake version: version 3.5.1
+
+Python version: 3.8 (64-bit runtime)
+Is CUDA available: True
+CUDA runtime version: 10.1.105
+GPU models and configuration: 
+GPU 0: GeForce RTX 2080 Ti
+GPU 1: GeForce RTX 2080 Ti
+GPU 2: GeForce RTX 2080 Ti
+GPU 3: GeForce RTX 2080 Ti
+GPU 4: GeForce RTX 2080 Ti
+GPU 5: GeForce RTX 2080 Ti
+GPU 6: GeForce RTX 2080 Ti
+GPU 7: GeForce RTX 2080 Ti
+
+Nvidia driver version: 460.32.03
+cuDNN version: Probably one of the following:
+/usr/lib/x86_64-linux-gnu/libcudnn.so.8.0.5
+/usr/lib/x86_64-linux-gnu/libcudnn_adv_infer.so.8.0.5
+/usr/lib/x86_64-linux-gnu/libcudnn_adv_train.so.8.0.5
+/usr/lib/x86_64-linux-gnu/libcudnn_cnn_infer.so.8.0.5
+/usr/lib/x86_64-linux-gnu/libcudnn_cnn_train.so.8.0.5
+/usr/lib/x86_64-linux-gnu/libcudnn_ops_infer.so.8.0.5
+/usr/lib/x86_64-linux-gnu/libcudnn_ops_train.so.8.0.5
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+
+Versions of relevant libraries:
+[pip3] numpy==1.19.3
+[pip3] numpydoc==1.1.0
+[pip3] torch==1.7.1+cu101
+[pip3] torchaudio==0.7.2
+[pip3] torchvision==0.8.2+cu101
+[conda] blas                      1.0                         mkl  
+[conda] mkl                       2020.2                      256  
+[conda] mkl-service               2.3.0            py38he904b0f_0  
+[conda] mkl_fft                   1.2.0            py38h23d657b_0  
+[conda] mkl_random                1.1.1            py38h0573a6f_0  
+[conda] numpy                     1.19.3                   pypi_0    pypi
+[conda] numpydoc                  1.1.0              pyhd3eb1b0_1  
+[conda] torch                     1.7.1+cu101              pypi_0    pypi
+[conda] torchaudio                0.7.2                    pypi_0    pypi
+[conda] torchvision               0.8.2+cu101              pypi_0    pypi
+! apt-get update
